@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+*.egg-info/
+dist/
+build/
+.env
+.env.local
+
+# Node
+node_modules/
+.npm
+package-lock.json
+dist/
+.nuxt
+.cache/
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+learning_tracker.db
+
+# Session files
+*.session
+learning_tracker.session
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data files (keep specific course data only)
+*.csv
+*.xlsx
+
+# IDE config
+eslint.config.js
